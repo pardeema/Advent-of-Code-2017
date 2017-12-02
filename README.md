@@ -7,3 +7,5 @@ My solutions posted here
 Link to the challenge: http://adventofcode.com/
 
 Day 1: http://adventofcode.com/2017/day/1
+
+Day 2: http://adventofcode.com/2017/day/2
