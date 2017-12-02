@@ -47,7 +47,6 @@ def part_two():
     with open(FILE, 'r') as f:
         for line in f:
             nums = line.split()
-            #Iterate through -- if we find num%len(nums) is even, let's flip flop and see if we can find mod == 0 faster:
             for num in nums:
                 switch = 0
                 if switch == 0:
